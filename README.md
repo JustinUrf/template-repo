@@ -1,15 +1,19 @@
 # {Application Name}
 
-#### By {List of contributors}
+#### By Justin Lee,
 
 #### {Brief description of application}
 
 ## Technologies Used
 
-* List all
-* the major technologies
-* you used in your project
-* here
+* JS
+* HTML
+* CSS
+* Bootstrap
+* Lint
+* Babel
+* Node JS
+* npm
 
 ## Description
 
@@ -17,11 +21,8 @@
 
 ## Setup/Installation Requirements
 
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
+* Push repository to personal computer through github or gitbash using git clone.
+* Run npm install in Gitbash terminal to get dependancies for project...
 
 {Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}
 
@@ -31,6 +32,8 @@
 * should go here
 
 ## License
+
+MIT
 
 {Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
 
